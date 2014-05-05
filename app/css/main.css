@@ -1,0 +1,6 @@
+body { padding-top: 100px; }
+.form-inline .form-group input, .form-inline .form-group a {
+  width: 150px;
+}
+.numeric { text-align: right; }
+.table thead tr td, .table tbody tr td, .table thead tr th, .table tbody tr th { vertical-align: middle; }

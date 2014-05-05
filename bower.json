@@ -1,0 +1,32 @@
+{
+  "name": "my-angular-seed",
+  "version": "0.0.0",
+  "authors": [
+    "Carl Youngblood <carl@youngbloods.org>"
+  ],
+  "main": "app/index.html",
+  "description": "",
+  "license": "none",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "app/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.2.14",
+    "underscore": "~1.6.0",
+    "socket.io-client": "~0.9.16",
+    "angular-resource": "~1.2.14",
+    "angular-cookies": "~1.2.14",
+    "angular-sanitize": "~1.2.14",
+    "angular-route": "~1.2.14",
+    "angular-touch": "~1.2.14",
+    "angular-bootstrap": "~0.10.0"
+  },
+  "devDependencies": {
+    "angular-mocks": "~1.2.14"
+  }
+}
